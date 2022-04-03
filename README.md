@@ -1,9 +1,11 @@
 ### My interests 
-- Microsoft 
+- Microsoft stack
 - Windows Desktop & Server OS
 - PowerShell
 
 :envelope: - mikhailkricki@outlook.com
+
+[![Twitter URL](https://img.shields.io/twitter/follow/mikhailkricki?style=social)](https://twitter.com/mikhailkricki)
 
 <!--
 **MikhailKricki/MikhailKricki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
