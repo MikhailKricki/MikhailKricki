@@ -1,4 +1,9 @@
-### Hi there 👋
+### My interests 
+- Microsoft 
+- Windows Desktop & Server OS
+- PowerShell
+
+:envelope: - mikhailkricki@outlook.com
 
 <!--
 **MikhailKricki/MikhailKricki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
